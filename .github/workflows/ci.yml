@@ -3,7 +3,7 @@ name: User Service CI
 on:
   push:
     branches:
-      - main
+      - bt2
 
 jobs:
   build_job:
